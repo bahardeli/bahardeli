@@ -1,0 +1,183 @@
+@media (min-width: 992px) and (max-width: 1200px) {
+  section.shegeft {
+    width: 97%;
+    height: 280px;
+    background-color: #da2f4e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    direction: rtl;
+  }
+  section.shegeft > div.box {
+    width: 95%;
+    height: 95%;
+    display: flex;
+    padding: 5px;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+  }
+  section.shegeft > div.box > div.mySwiper3 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+  }
+  section.shegeft > div.box > div.mySwiper3 > div.swiper-wrapper {
+    width: 100%;
+    display: flex;
+  }
+  section.shegeft
+    > div.box
+    > div.mySwiper3
+    > div.swiper-wrapper
+    > div.swiper-slide {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  section.shegeft > div.box div.item1{
+    display: none;
+  }
+  section.shegeft > div.box div.item {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    background-color: #ffffff;
+    flex-flow: column;
+  }
+  section.shegeft > div.box div.item > a {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+  }
+  section.shegeft > div.box div.item > a > div.img {
+    width: 85%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  section.shegeft > div.box div.item > a > div.img > img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  section.shegeft > div.box div.item > a > h5 {
+    width: 99%;
+    height: 20%;
+    font-size: 11px;
+    font-weight: 100;
+    padding: 0 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  section.shegeft > div.box div.item > a > span.qeymt {
+    width: 80%;
+    height: 12%;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aqua;
+  }
+  section.shegeft > div.box div.item > a > span.qeymt > div.t1 {
+    width: 30px;
+    height: 20px;
+    background-color: #d32f2f;
+    font-size: 15px;
+    font-weight: 200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+  }
+  section.shegeft > div.box div.item > a > span.qeymt > div.t1 > p {
+    font-size: small;
+    color: #ffffff;
+  }
+  section.shegeft > div.box div.item > a > span.qeymt > div.t2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    padding-left: 15px;
+  }
+  section.shegeft > div.box div.item > a > span.qeymt > div.t2 > p {
+    font-size: 15px;
+    font-weight: 900;
+    padding-left: 5px;
+  }
+  section.shegeft > div.box div.item > a > span.qeymt > div.t2 > img {
+    width: 40px;
+    object-fit: contain;
+  }
+  section.shegeft > div.box div.item > a > span.qbli {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-right: 35px;
+    height: 8%;
+  }
+  section.shegeft > div.box div.item > a > span.qbli > p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #bdbdbe;
+    text-decoration: line-through;
+  }
+  section.shegeft > div.box div.item2 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 10px 0 0 10px;
+  }
+  .item3 {
+    border-radius: 0 10px 10px 0;
+  }
+  section.shegeft > div.box div.item2 > a {
+    text-decoration: none;
+    margin: 0 auto;
+    color: black;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-flow: column;
+  }
+  section.shegeft > div.box div.item2 > a > div.circle {
+    width: 52px;
+    height: 52px;
+    border-radius: 60%;
+    border: 2px solid #19bfd3;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-flow: column;
+  }
+  section.shegeft > div.box div.item2 > a > div.circle > img {
+    width: 70%;
+    object-fit: contain;
+  }
+  section.shegeft > div.box div.item2 > a > div.a {
+    margin-top: 10px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+  }
+  section.shegeft > div.box div.item2 > a > div.a > p {
+    font-size: 14px;
+    color: #6e6f8a;
+  }
+}
